@@ -3,9 +3,9 @@
 
 - 🌱 Actualmente estoy aprendiendo: **HTML, CSS, TypeScript, JavaScript, React, Next.js, Node, Express, Bootstrap, Tailwind**
 
-- 👨‍💻 Todos mis proyectos están disponibles en 
+- 👨‍💻 Portafolio
 
-- 💬 Pregúntame sobre **JavaScript, React, Next.js, Node, Express, MUI**
+- 💬 Pregúntame sobre **JavaScript, React, Next.js, Node, Express**
 
 - 📫 Contáctame **jonasroman0819@gmail.com**
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, mi nombre es Jonas Roman</h1>
 <h3 align="center">Desarrollador Web FullStack</h3>
 
-- 🌱 Actualmente estoy aprendiendo: **HTML, CSS, TypeScript, JavaScript, React, Next.js, Node, Express, Bootstrap, Tailwind**
+- 🌱 Conocimientos Actualmente: **HTML, CSS, TypeScript, JavaScript, React, Next.js, Node, Express, Bootstrap, Tailwind**
 
 - 👨‍💻 Portafolio https://app-my-portafolio.herokuapp.com/
 

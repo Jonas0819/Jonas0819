@@ -3,7 +3,7 @@
 
 - 🌱 Actualmente estoy aprendiendo: **HTML, CSS, TypeScript, JavaScript, React, Next.js, Node, Express, Bootstrap, Tailwind**
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https://elmerjacobo.com/](https://elmerjacobo.com/)
+- 👨‍💻 Todos mis proyectos están disponibles en 
 
 - 💬 Pregúntame sobre **JavaScript, React, Next.js, Node, Express, MUI**
 

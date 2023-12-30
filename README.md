@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, mi nombre es Jonás Román</h1>
 <h3 align="center">Desarrollador Web FullStack</h3>
 
-- 🌱 Conocimientos Actualmente: **HTML, CSS, JavaScript, React, Next.js, Node, Express, AWS, Tailwind**
+- 🌱 Conocimientos Actualmente: **HTML, CSS, JavaScript, React, Next.js, Node, Express, AWS, TailwindCSS**
 
 - 👨‍💻 Portafolio https://jonas0819.github.io/my_portofolio/
 

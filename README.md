@@ -3,7 +3,7 @@
 
 - 🌱 Conocimientos Actualmente: **HTML, CSS, TypeScript, JavaScript, React, Next.js, Node, Express, Bootstrap, Tailwind**
 
-- 👨‍💻 Portafolio https://app-my-portafolio.herokuapp.com/
+- 👨‍💻 Portafolio https://jonas0819.github.io/my_portofolio/
 
 - 💬 Pregúntame sobre **JavaScript, React, Next.js, Node, Express**
 

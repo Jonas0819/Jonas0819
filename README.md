@@ -5,7 +5,7 @@
 
 - 👨‍💻 Portafolio https://jonas0819.github.io/my_portofolio/
 
-- 💬 Pregúntame sobre **JavaScript, React, Next.js, Node, Express**
+- 💬 Pregúntame sobre **JavaScript, React, Next.js, Node, Express.**
 
 - 📫 Contáctame **jonasroman0819@gmail.com**
 
